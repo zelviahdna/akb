@@ -5,17 +5,17 @@ const mahasiswaData = [
   {
     nama: "Alya Anandha",
     nim: "105841105422",
-    style: { fontFamily: "Barlow_ExtraBold", fontSize: 26, color: "green", fontWeight: "bold" }
+    style: { fontFamily: "Barlow_ExtraBold", fontSize: 26, color: "green",}
   },
   {
     nama: "M.Fikri Haikal Ayatullah",
     nim: "105841105522",
-    style: { fontFamily: "FiraSans-BlackItalic", fontSize: 24 }
+    style: { fontFamily: "FiraSans-BlackItalic", fontSize: 24, color: "green" }
   },
   {
     nama: "Muh.Dirham Rahim",
     nim: "105841105622",
-    style: { fontFamily: "IntelOneMono-VariableFont_wght", fontSize: 24 }
+    style: { fontFamily: "IntelOneMono-VariableFont_wght", fontSize: 24, color: "green" }
   },
   {
     nama: "Zaskya Aulia Ashar",
@@ -37,7 +37,7 @@ const mahasiswaData = [
     nama: "Arsifah ainun aulia",
     nim: "105841106122",
     reverse: true,
-    style: { fontFamily: "RobotoCondensed-VariableFont_wght", fontSize: 24 }
+    style: { fontFamily: "RobotoCondensed-VariableFont_wght", fontSize: 24, color: "brown"}
   },
   {
     nama: "Tegar Surya Prayoga",
@@ -49,7 +49,7 @@ const mahasiswaData = [
     nama: "ANDI ANGKE RIONA MEGAWAN",
     nim: "105841106322",
     reverse: true,
-    style: { fontFamily: "SpaceMono-Regular", fontSize: 24 }
+    style: { fontFamily: "SpaceMono-Regular", fontSize: 24, color: "orange" }
   },
   {
     nama: "A. FACHRI",

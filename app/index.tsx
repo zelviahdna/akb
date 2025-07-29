@@ -45,7 +45,7 @@ const mahasiswaData = [
   {
     nama: "ANDI ANGKE RIONA MEGAWAN",
     nim: "105841106322",
-    style: { fontFamily: "SpaceMono-Regular", fontSize: 24, color: "orange" }
+    style: { fontFamily: "RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght", fontSize: 24, color: "orange" }
   },
   {
     nama: "A. FACHRI",
@@ -64,7 +64,7 @@ export default function Index() {
     "PTSans-Italic": require("../assets/fonts/PTSans-Italic.ttf"),
     "RobotoCondensed-VariableFont_wght": require("../assets/fonts/RobotoCondensed-VariableFont_wght.ttf"),
     "RobotoMono-Italic-VariableFont_wght": require("../assets/fonts/RobotoMono-Italic-VariableFont_wght.ttf"),
-    "SpaceMono-Regular": require("../assets/fonts/SpaceMono-Regular.ttf"),
+    "RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght": require("../assets/fonts/RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf"),
     "SpecialGothicExpandedOne-Regular": require("../assets/fonts/SpecialGothicExpandedOne-Regular.ttf"),
   });
 
